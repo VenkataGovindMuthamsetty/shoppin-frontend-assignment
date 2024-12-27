@@ -62,7 +62,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/irlapatiavinash12/apple-watch-clone.git
+git clone [https://github.com/VenkataGovindMuthamsetty/shoppin-frontend-assignment.git]
 
 Navigate to the project directory:
 
